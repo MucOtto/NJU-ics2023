@@ -1,3 +1,6 @@
+# NJU-ics2023 PA and lab
+这里搭建了最基础的pa运行环境，免去了复杂的配置过程，不过因为没有南大的学生号以及对应`token`依然无法使用`OJ`系统，只能作为练手。
+
 # ICS2023 Programming Assignment
 
 This project is the programming assignment of the class ICS(Introduction to Computer System)
